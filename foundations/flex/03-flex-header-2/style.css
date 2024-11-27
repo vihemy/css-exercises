@@ -54,13 +54,7 @@ ul {
   padding: 0px;
 }
 
-.site-info {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
-.user-info {
+.site-info, .user-info {
   display: flex;
   align-items: center;
   gap: 16px;
